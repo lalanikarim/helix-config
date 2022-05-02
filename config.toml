@@ -1,0 +1,6 @@
+theme = "monokai_pro_ristretto_clear"
+
+[editor]
+line-number = "relative"
+mouse = false
+true-color = true
