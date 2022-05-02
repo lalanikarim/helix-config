@@ -433,7 +433,7 @@ file-types = ["php"]
 shebangs = ["php"]
 roots = ["composer.json", "index.php"]
 # language-server = { command = "intelephense", args = ["--stdio"] }
-language-server = { command = "phpactor.sh", args = ["language-server"] }
+language-server = { command = "phpactor", args = ["language-server"] }
 indent = { tab-width = 4, unit = "    " }
 
 [[grammar]]
